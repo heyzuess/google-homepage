@@ -1,0 +1,26 @@
+.Search-Bar {
+  padding-top: 15%;
+}
+
+.Search-Bar input {
+  margin-bottom: 2%;
+  margin-top: 2%;
+  margin-right: 33%;
+  margin-left: 33%;
+}
+
+.Search-Logo {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.Search-Buttons {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.Search-Buttons button:first-of-type {
+  margin-right: 1%;
+}

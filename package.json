@@ -1,0 +1,20 @@
+{
+  "name": "google-homepage",
+  "version": "1.0.0",
+  "description": "From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodejs index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyzuess/google-homepage.git"
+  },
+  "author": "Jesse Iberri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyzuess/google-homepage/issues"
+  },
+  "homepage": "https://github.com/heyzuess/google-homepage#readme"
+}
